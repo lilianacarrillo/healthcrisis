@@ -17,7 +17,7 @@ Current team volunteers/members:
 * Ecosystem Disposable Identity Team: Rob van Kranenburg and Gaëlle Le Gars 
 * Lead Architect Visual Interface: Jari Isohanni
 * Lead Healthcare specialist:  Christoph Thuemmler 
-* Lead AI specialist? 
+* Lead AI specialist: Liliana Carrillo
 * Lead Legal: Mantalena Kaili
 * Lead Scenario: Christian Nold
 * Lead Disruption: Claudia De Maesschalck
